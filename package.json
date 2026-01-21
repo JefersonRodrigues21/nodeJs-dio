@@ -1,0 +1,22 @@
+{
+  "name": "nodejs-dio",
+  "version": "1.0.0",
+  "description": "NodeJs Dio",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "open": "echo \"ola mundo\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/JefersonRodrigues21/nodeJs-dio.git"
+  },
+  "keywords": [],
+  "author": "Jeferson Rodrigues",
+  "license": "ISC",
+  "type": "commonjs",
+  "bugs": {
+    "url": "https://github.com/JefersonRodrigues21/nodeJs-dio/issues"
+  },
+  "homepage": "https://github.com/JefersonRodrigues21/nodeJs-dio#readme"
+}
